@@ -70,7 +70,7 @@ Algorand Testnet: View Sample TX
 📦 Installation (For Developers)
 bash
 # Clone repo
-git clone https://github.com/your-repo/pocketmentor.git
+git clone https://github.com/Samikshacode934/AI-Powered-Career-Coach-Platform.git
 
 # Install dependencies
 npm install
