@@ -11,3 +11,40 @@
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
+
+
+<div class="payment-modal" id="payment-modal">
+  <div class="modal-content">
+    <h3>Unlock AI Mentor Sessions</h3>
+    <p>This feature activates after payment integration</p>
+    <button onclick="mockPaymentSuccess()">Try Demo</button>
+  </div>
+</div>
+
+<style>
+.payment-modal {
+  position: fixed; top: 0; left: 0; 
+  width: 100%; height: 100%;
+  background: rgba(0,0,0,0.8);
+  display: none;
+}
+.modal-content {
+  background: white; 
+  padding: 20px;
+  width: 300px;
+  margin: 100px auto;
+}
+</style>
+
+<script>
+function showPaymentModal() {
+  document.getElementById('payment-modal').style.display = 'block';
+}
+
+function mockPaymentSuccess() {
+  document.getElementById('payment-modal').style.display = 'none';
+  localStorage.setItem('premium_user', 'true');
+  alert("Demo: Payment successful! AI mentor session unlocked.");
+  startTavusSession(); // Proceed to your Tavus flow
+}
+</script>
