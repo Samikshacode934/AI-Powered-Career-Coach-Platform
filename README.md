@@ -5,7 +5,7 @@
 
 > AI-driven career coaching with verifiable blockchain credentials and premium mentorship
 
-![App Screenshots](https://app.tango.us/app/workflow/Navigate-AI-Career-Coach-Platform-e7d1f886795c4b2ca05535fb16845514)
+(Presentation) https://app.tango.us/app/workflow/Navigate-AI-Career-Coach-Platform-e7d1f886795c4b2ca05535fb16845514
 
 ## 🚀 Key Features
 
