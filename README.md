@@ -3,6 +3,8 @@
 [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen)](https://funny-pastelito-9a98ca.netlify.app/)
 [![Built with Bolt](https://img.shields.io/badge/Powered%20by-Bolt-7B3BF7)](https://bolt.new)
 
+Live demo  (https://youtu.be/eLqpnDSmaCU?si=seXnCQW2Of7vvszr)
+
 > AI-driven career coaching with verifiable blockchain credentials and premium mentorship
 
 (Presentation) https://app.tango.us/app/workflow/Navigate-AI-Career-Coach-Platform-e7d1f886795c4b2ca05535fb16845514
