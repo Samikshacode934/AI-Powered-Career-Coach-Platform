@@ -1,4 +1,5 @@
 # 🤖 PocketMentor AI - Your Blockchain-Powered Career Coach 
+![pocket metor](https://github.com/user-attachments/assets/35864cbc-82c7-460d-b3e9-41da5aaf6a08)
 
 [![Live Demo](https://img.shields.io/badge/DEMO-LIVE-brightgreen)](https://funny-pastelito-9a98ca.netlify.app/)
 [![Built with Bolt](https://img.shields.io/badge/Powered%20by-Bolt-7B3BF7)](https://bolt.new)
